@@ -1,0 +1,7 @@
+Source/obj/
+Source/bin/
+Source/.vs/
+*.user
+*.suo
+Assemblies/0Harmony.dll
+Assemblies/*.pdb
